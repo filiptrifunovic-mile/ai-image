@@ -1,4 +1,4 @@
-MongoDB, Express, React, Node
+MongoDB, Express, React, Node.
 
 https://filip-ai.netlify.app
 
